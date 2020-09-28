@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinations", "LetterCombinations\LetterCombinations.csproj", "{5D797B67-7508-44B8-9A8B-59262C260756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinations.Tests", "LetterCombinations.Tests\LetterCombinations.Tests.csproj", "{C61C63DC-2C3C-48DD-9D52-282D8B4BA733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D797B67-7508-44B8-9A8B-59262C260756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D797B67-7508-44B8-9A8B-59262C260756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D797B67-7508-44B8-9A8B-59262C260756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D797B67-7508-44B8-9A8B-59262C260756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61C63DC-2C3C-48DD-9D52-282D8B4BA733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61C63DC-2C3C-48DD-9D52-282D8B4BA733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61C63DC-2C3C-48DD-9D52-282D8B4BA733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61C63DC-2C3C-48DD-9D52-282D8B4BA733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
